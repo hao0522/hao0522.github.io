@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam0522 Blog</title>
-    <link>/tags/</link>
+    <link>https://hao0522.github.io/tags/</link>
     <description>Recent content in Tags on Sam0522 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://hao0522.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
-      <link>/tags/game/</link>
+      <link>https://hao0522.github.io/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/game/</guid>
+      <guid>https://hao0522.github.io/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>/tags/html/</link>
+      <link>https://hao0522.github.io/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://hao0522.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>/tags/new/</link>
+      <link>https://hao0522.github.io/tags/new/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/new/</guid>
+      <guid>https://hao0522.github.io/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>/tags/photos/</link>
+      <link>https://hao0522.github.io/tags/photos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/photos/</guid>
+      <guid>https://hao0522.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>https://hao0522.github.io/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>https://hao0522.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>/tags/react/</link>
+      <link>https://hao0522.github.io/tags/react/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>/tags/react/</guid>
+      <guid>https://hao0522.github.io/tags/react/</guid>
       <description></description>
     </item>
     
